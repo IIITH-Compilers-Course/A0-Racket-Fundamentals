@@ -37,8 +37,8 @@ Solve the first 28 problems mentioned in Ninety-Nine Lisp Problems using only th
 The committed repo should be named as the student’s roll-number and should have just the following two files:  
 
 *rollnumber*/  
-         |- *rollnumber.rkt*  
-         |- *rollnumber_tests.rkt*  
+         :|- *rollnumber.rkt*  
+         :|- *rollnumber_tests.rkt*  
 
 rollnumber.rkt should have all functions required in the questions. Additional helper functions may be used.
 rollnumber_tests.rkt should have all the tests cases. The testing will be automated. Therefore the submission format needs to be strictly followed. A 20% penalty will be levied if the format is not followed.
