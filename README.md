@@ -19,13 +19,13 @@ The students can feel free to contact the TA to clarify their doubts and queries
 Solve the first 28 problems mentioned in Ninety-Nine Lisp Problems using only the following:
 * Arithmetic (+, -, *, etc)
 * car, cdr, and their variations like caddr, etc
-*match
-*if-then-else
-*foldl and foldr
-*length and append
-*random (for problem 23)
-*sort (for problem 28)
-*Any helper functions defined by the student
+* match
+* if-then-else
+* foldl and foldr
+* length and append
+* random (for problem 23)
+* sort (for problem 28)
+* Any helper functions defined by the student
 
 ### Note
 1. For each question, implement at least three tests (not including provided examples).
