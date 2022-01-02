@@ -16,7 +16,7 @@ The students can feel free to contact the TA to clarify their doubts and queries
 [RackUnit](https://docs.racket-lang.org/rackunit/): Useful for testing  
 
 ### Assignment statement:
-Solve the first 28 problems mentioned in Ninety-Nine Lisp Problems using only the following:
+Solve the first 28 problems mentioned in [Ninety-Nine Lisp Problems](https://www.ic.unicamp.br/~meidanis/courses/mc336/2006s2/funcional/L-99_Ninety-Nine_Lisp_Problems.html) using only the following:
 * Arithmetic (+, -, *, etc)
 * car, cdr, and their variations like caddr, etc
 * match
@@ -37,8 +37,8 @@ Solve the first 28 problems mentioned in Ninety-Nine Lisp Problems using only th
 The committed repo should be named as the student’s roll-number and should have just the following two files:  
 
 *rollnumber*/  
-&nbsp;&nbsp;&nbsp;&nbsp;  |- *rollnumber.rkt*  
-&nbsp;&nbsp;&nbsp;&nbsp;  |- *rollnumber_tests.rkt*  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  |- *rollnumber.rkt*  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  |- *rollnumber_tests.rkt*  
 
 rollnumber.rkt should have all functions required in the questions. Additional helper functions may be used.
 rollnumber_tests.rkt should have all the tests cases. The testing will be automated. Therefore the submission format needs to be strictly followed. A 20% penalty will be levied if the format is not followed.
