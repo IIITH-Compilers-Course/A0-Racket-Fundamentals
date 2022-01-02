@@ -17,8 +17,8 @@ The students can feel free to contact the TA to clarify their doubts and queries
 
 ### Assignment statement:
 Solve the first 28 problems mentioned in Ninety-Nine Lisp Problems using only the following:
-*Arithmetic (+, -, *, etc)
-*car, cdr, and their variations like caddr, etc
+* Arithmetic (+, -, *, etc)
+* car, cdr, and their variations like caddr, etc
 *match
 *if-then-else
 *foldl and foldr
