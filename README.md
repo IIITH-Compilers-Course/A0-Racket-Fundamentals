@@ -37,7 +37,7 @@ Solve the first 28 problems mentioned in Ninety-Nine Lisp Problems using only th
 The committed repo should be named as the student’s roll-number and should have just the following two files:  
 
 *rollnumber*/  
-$emsp |- *rollnumber.rkt*  
+$emsp; |- *rollnumber.rkt*  
          |- *rollnumber_tests.rkt*  
 
 rollnumber.rkt should have all functions required in the questions. Additional helper functions may be used.
