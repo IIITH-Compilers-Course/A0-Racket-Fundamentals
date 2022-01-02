@@ -8,7 +8,7 @@ it is strongly advised that the students solve the problems independently.
 This will ensure that the students develop enough proficiency in Racket, 
 which is essential for future assignments.  
 
-The students can feel free to contact the TA to clarify their doubts and queries about Racket.
+The students can feel free to contact the TA to clarify their doubts and queries about Racket. (This assignment description is provided as a pdf document as well).
 
 ### Reading
 [The Racket guide](https://docs.racket-lang.org/guide/): Chapters 1 to 5 and 11 to 13  
