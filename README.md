@@ -1,4 +1,6 @@
 # A0-Racket-Fundamentals
+Submission due: 16 Jan, 23:59  
+Click [here](https://classroom.github.com/a/kNUR5-c8) to enroll in the Github classroom.
 ## Description
 This course involves a lot of Racket Programming. 
 This assignment is to get the students familiar with the parts of Racket relevant to this course. 
