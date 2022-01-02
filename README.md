@@ -34,10 +34,11 @@ Solve the first 28 problems mentioned in Ninety-Nine Lisp Problems using only th
 4. Many of the questions can be solved directly by invoking a corresponding racket function. However, such implementation will be awarded zero points. For example, the first question can be solved by calling the built-in last function of Racket. However, students are expected to implement it using recursion and other racket functions).
 
 ## Submission instructions
-The committed repo should be named as the student’s roll-number and should have just the following two files:
-rollnumber/ 
-         |- rollnumber.rkt  
-         |- rollnumber_tests.rkt  
+The committed repo should be named as the student’s roll-number and should have just the following two files:  
+
+*rollnumber*/  
+         |- *rollnumber.rkt*  
+         |- *rollnumber_tests.rkt*  
 
 rollnumber.rkt should have all functions required in the questions. Additional helper functions may be used.
 rollnumber_tests.rkt should have all the tests cases. The testing will be automated. Therefore the submission format needs to be strictly followed. A 20% penalty will be levied if the format is not followed.
