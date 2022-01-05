@@ -20,7 +20,7 @@ The students can feel free to contact the TA to clarify their doubts and queries
 ### Assignment statement:
 Solve the first 28 problems mentioned in [Ninety-Nine Lisp Problems](https://www.ic.unicamp.br/~meidanis/courses/mc336/2006s2/funcional/L-99_Ninety-Nine_Lisp_Problems.html) using only the following:
 * Arithmetic (+, -, *, etc)
-* car, cdr, and their variations like caddr, etc
+* cons, car, cdr, and their variations like caddr, etc
 * match
 * if-then-else
 * foldl and foldr
