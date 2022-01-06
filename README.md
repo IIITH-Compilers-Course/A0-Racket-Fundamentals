@@ -21,8 +21,9 @@ The students can feel free to contact the TA to clarify their doubts and queries
 Solve the first 28 problems mentioned in [Ninety-Nine Lisp Problems](https://www.ic.unicamp.br/~meidanis/courses/mc336/2006s2/funcional/L-99_Ninety-Nine_Lisp_Problems.html) using only the following:
 * Arithmetic (+, -, *, etc)
 * cons, car, cdr, and their variations like caddr, etc
+* let, and its variations like letrec, let*, etc
 * match
-* if-then-else
+* if-then-else, cond, and, or
 * foldl and foldr
 * length and append
 * random (for problem 23)
