@@ -25,7 +25,7 @@ Solve the first 28 problems mentioned in [Ninety-Nine Lisp Problems](https://www
 * match
 * if-then-else, cond, and, or
 * foldl and foldr
-* length and append
+* map, length and append
 * random (for problem 23)
 * sort (for problem 28)
 * Any helper functions defined by the student
