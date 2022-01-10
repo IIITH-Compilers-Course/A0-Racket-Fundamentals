@@ -27,6 +27,7 @@ Solve the first 28 problems mentioned in [Ninety-Nine Lisp Problems](https://www
 * foldl and foldr
 * map, length and append
 * Data type predicates: symbol?, number?, cons?, etc
+* eq? and its variants like eqv?, equal?, etc
 * random (for problem 23)
 * sort (for problem 28)
 * Any helper functions defined by the student
